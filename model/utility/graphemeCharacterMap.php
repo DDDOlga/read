@@ -98,16 +98,7 @@ $graphemeCharacterMap = array(
     "|"=>array("srt"=>"870","ssrt"=>"870","typ"=>"I"),
     "srt"=>"860","ssrt"=>"860","typ"=>"I"),
 "◯"=>array("srt"=>"821","ssrt"=>"821","typ"=>"I"),
-":"=>array("srt"=>"803","ssrt"=>"803","typ"=>"P"),
-<<<<<<< HEAD
-"⚀"=>array("srt"=>"900","ssrt"=>"900","typ"=>"P"),
-"⚁"=>array("srt"=>"910","ssrt"=>"910","typ"=>"P"),
-"⚂"=>array("srt"=>"920","ssrt"=>"920","typ"=>"P"),
-"⚃"=>array("srt"=>"930","ssrt"=>"930","typ"=>"P"),
-"⚄"=>array("srt"=>"940","ssrt"=>"940","typ"=>"P"),
-"▩"=>array("srt"=>"950","ssrt"=>"950","typ"=>"P"),
-=======
->>>>>>> Hand changes to V1RC for mayan
+//":"=>array("srt"=>"803","ssrt"=>"803","typ"=>"P"),
 "*"=>array("srt"=>"099","ssrt"=>"099","typ"=>"V"), // for sanskrit
 "·"=>array("srt"=>"000","ssrt"=>"099","typ"=>"M"), // virama {ASG: why both * and · for virama?
 "."=>array("srt"=>"189","ssrt"=>"189","typ"=>"V"),
@@ -251,6 +242,11 @@ $graphemeCharacterMap = array(
           ":"=>array(
             "L"=>array("srt"=>"477","typ"=>"I"),
             "srt"=>"476","typ"=>"I"),
+          "srt"=>"475","typ"=>"I"),
+        "srt"=>"474","typ"=>"I"),
+      ":"=>array(
+        "K"=>array(
+          "'"=>array("srt"=>"476","typ"=>"I"),
           "srt"=>"475","typ"=>"I"),
         "srt"=>"474","typ"=>"I"),
       "srt"=>"473","typ"=>"I"),
